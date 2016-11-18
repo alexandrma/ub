@@ -5,4 +5,5 @@ sudo apt-get update
 
 sudo apt-get install doublecmd-gtk
 sudo apt-get install keepass2
+sudo apt-get install deluge
 
