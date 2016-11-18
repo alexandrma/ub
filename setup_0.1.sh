@@ -7,3 +7,4 @@ sudo apt-get install doublecmd-gtk
 sudo apt-get install keepass2
 sudo apt-get install deluge
 sudo apt-get install flashplugin-installer
+sudo apt-get install vlc browser-plugin-vlc
