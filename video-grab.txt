@@ -1,0 +1,8 @@
+-- istall simple screen recorder
+do add-apt-repository ppa:maarten-baert/simplescreenrecorder
+sudo apt-get update
+sudo apt-get install simplescreenrecorder
+
+--to disable screen lock timeout from a script?
+dconf write /org/gnome/desktop/screensaver/idle-activation-enabled false
+dconf write /org/gnome/desktop/screensaver/lock-enabled false
